@@ -25,7 +25,3 @@
 
 
 
-
-### Note: I have used UI from https://github.com/hasancse91 and then updated it according to the requirements because of lack of time. Other than this, I have writen all code by myself.
-
-
