@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherAppTask</string>
+
+
+    <string name="view_weather">View Weather</string>
+    <string name="degree_celsius_symbol">°C</string>
+    <string name="description_weather_condition_icon">weather condition icon</string>
+    <string name="label_humidity">Humidity</string>
+    <string name="label_pressure">Pressure</string>
+    <string name="label_visibility">Visibility</string>
+    <string name="label_sunrise">Sunrise</string>
+    <string name="label_sunset">Sunset</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="search_hint">Search...</string>
+    <string name="please_give_location_permission_to_move_forward">Please give location permission to move forward!</string>
+    <string name="failed_to_get_location">Failed to get location!</string>
+</resources>
