@@ -25,3 +25,4 @@
 
 
 
+![Samsung-S20-Cosmic-Gray-Realistic-Portrait](https://github.com/ehsanullah08/WeatherAppTask/assets/33160240/7a0644bf-9a04-453a-87a9-4b668b4fd52d)
