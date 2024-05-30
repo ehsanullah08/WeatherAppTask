@@ -9,19 +9,19 @@
 
 ### Libraries used in project
 
-1. Kodein: I have used Kodein library to implement Dependency Injection because it's simple to use as compared to dagger or hilt
+**1. Kodein:** I have used Kodein library to implement Dependency Injection because it's simple to use as compared to dagger or hilt
 
-2. LiveData: For communication between data and UI
+**2. LiveData:** For communication between data and UI
 
-3. DataBinding: To bind data with views directly in xml
+**3. DataBinding:** To bind data with views directly in xml
 
-4. ViewBinding: To reduce boiler plate code of binding resources and prevent null resources exceptions
+**4. ViewBinding:** To reduce boiler plate code of binding resources and prevent null resources exceptions
 
-5. Retrofit: To make network calls
+**5. Retrofit:** To make network calls
 
-6. Coroutines: To make Asynchronus network calls
+**6. Coroutines:** To make Asynchronus network calls
 
-7. Repository: To make code more decoupled while communicating between data and business logic layer
+**7. Repository:** To make code more decoupled while communicating between data and business logic layer
 
 
 
